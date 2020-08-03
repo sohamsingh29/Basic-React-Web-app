@@ -1,0 +1,15 @@
+{
+  "short_name": "In-Sync",
+  "name": "In-Sync Group Landing Page",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffe8df",
+  "background_color": "#ffe8df"
+}
