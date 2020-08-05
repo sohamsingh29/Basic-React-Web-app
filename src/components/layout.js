@@ -19,7 +19,7 @@ const Layout = ({ children }) => {
   const { pathname } = useLocation();
   return (
     <>
-      <Header siteTitle={"In-Sync"} />
+      <Header siteTitle={"Company Name"} />
       <Main>{children}</Main>
       {pathname === "/" ? null : <Footer />}
       <BottomNav />
